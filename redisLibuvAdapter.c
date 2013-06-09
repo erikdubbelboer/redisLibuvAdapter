@@ -1,7 +1,6 @@
 
 #include <stdlib.h>  // malloc(), free()
 #include <string.h>  // memset()
-#include <assert.h>  // assert()
 
 #include "redisLibuvAdapter.h"
 
